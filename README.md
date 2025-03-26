@@ -28,7 +28,7 @@ A comprehensive solution for automated MySQL database backups from Plesk Panel w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plesk-mysql-backup-rclone.git
+   git clone https://github.com/classyid/plesk-mysql-backup-rclone.git
    cd plesk-mysql-backup-rclone
    ```
 
